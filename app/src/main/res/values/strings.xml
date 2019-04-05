@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared_Preferance</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="save">SAVE</string>
+    <string name="load">lOAD</string>
+
+</resources>
